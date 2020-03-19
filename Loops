@@ -1,0 +1,6 @@
+N = int(input(""))
+result = 0
+
+for item in range(N)
+  result = item ** 2
+  print(result)
