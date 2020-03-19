@@ -1,0 +1,10 @@
+x = int(input(""))
+y = int(input(""))
+
+add = x + y
+subtract = x - y
+multiply = x * y
+
+print(add)
+print(subtract)
+print(multiply)
