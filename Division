@@ -1,0 +1,8 @@
+a = int(input(""))
+b = int(input(""))
+
+mod = a // b
+div = a / b
+
+print(mod)
+print(div)
